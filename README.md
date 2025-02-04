@@ -38,21 +38,21 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
 </p>
 
 ### 1. Understanding Consumer Priorities
-- Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
-- **Transportation inconvenience** is a major barrier to selection.
+- Customers prioritize caregiver professionalism, neonatal care, and infection control.
+- Transportation inconvenience is a major barrier to selection.
 
 ### 2. Communicating Product Value
-- **Expert Medical Team**: Cixin has **highly qualified caregivers** but lacks sufficient promotion.
-- **High Value-for-Money**: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
+- Expert Medical Team: Cixin has **highly qualified caregivers but lacks sufficient promotion.
+- High Value-for-Money: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
 
 ### 3. Differentiating Services
-- High demand for **postpartum stress-relief programs** (yoga, massage, personalized baby records).
-- **Partnering with childcare centers** can help attract families with older children.
+- High demand for postpartum stress-relief programs (yoga, massage, personalized baby records).
+- Partnering with childcare centers can help attract families with older children.
 
 ### 4. Enhancing Digital Presence
-- **Social Media:** Consumers mainly rely on **Google, referrals, and Facebook**; **Instagram** can engage younger demographics.
-- **Website Optimization:** The **2018 website is outdated**; regular updates and SEO improvements are needed.
+- Social Media: Consumers mainly rely on Google, referrals, and Facebook**; Instagram can engage younger demographics.
+- Website Optimization: The 2018 website is outdated**; regular updates and SEO improvements are needed.
 
 ### 5. Boosting Customer Retention & Word-of-Mouth
-- **Psychological support from staff significantly increases return visits.**
-- High **service quality and word-of-mouth marketing** drive customer loyalty.
+- Psychological support from staff significantly increases return visits.
+- High service quality and word-of-mouth marketing drive customer loyalty.
