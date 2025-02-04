@@ -4,7 +4,7 @@
 This project analyzes consumer perceptions and purchasing behavior in the postpartum care industry, with a focus on **Cixin Postpartum Care Home**. Using **survey data and statistical analysis (SPSS, T-tests, ANOVA, Regression analysis)**, it identify key decision-making factors, customer preferences, and potential business strategies for improving service offerings and marketing efforts.
 
 ## 📂 Dataset  
-The raw survey data is available in [survey_data.xlsx](report/Survey rawdata.xlsx)
+The raw survey data is available in [View Raw Data]([report/Survey rawdata.xlsx](https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/raw/refs/heads/main/SPSS%20Analysis%20Results.xlsx))
 
 ## 📊 Key Objectives
 - Assess consumer **awareness, preferences, and decision-making** factors.
