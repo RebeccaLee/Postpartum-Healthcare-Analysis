@@ -14,6 +14,7 @@ Cleaned + Structured data -> ([report/SPSS Analysis Results.xlsx](https://github
 
 ## 🛠️ Methodology
 This survey contained **344 survey responses** (with 342 valid entries) from target consumers in Xizhi, Neihu, and Nangang district in New Taipei City. The analysis follows these steps:
+
 <img src="https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/blob/main/survey%20structure.png" 
      alt="Postpartum Healthcare Analysis" width="60%" align="left">
 
@@ -28,6 +29,7 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
    - **T-Tests & ANOVA:** Identifying group differences.
    - **Regression Analysis:** Examining factors affecting customer retention.
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
+
 
 ## 🔑 Recommendations & Insights
 ![Postpartum Healthcare Analysis](https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/blob/main/Insights%20%26%20Recommendations%20-%20visual%20selection.png)
