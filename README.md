@@ -25,23 +25,23 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
 
 ## 🔑 Key Findings & Insights
-### 1️1. Understanding Consumer Priorities
+## 1. Understanding Consumer Priorities
 - Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
 - **Transportation inconvenience** is a major barrier to selection.
 
-### 2️2. Communicating Product Value
+## 2. Communicating Product Value
 - **Expert Medical Team**: Cixin has **highly qualified caregivers** but lacks sufficient promotion.
 - **High Value-for-Money**: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
 
-### 3️3. Differentiating Services
+## 3. Differentiating Services
 - High demand for **postpartum stress-relief programs** (yoga, massage, personalized baby records).
 - **Partnering with childcare centers** can help attract families with older children.
 
-### 4️4. Enhancing Digital Presence
+## 4. Enhancing Digital Presence
 - **Social Media:** Consumers mainly rely on **Google, referrals, and Facebook**; **Instagram** can engage younger demographics.
 - **Website Optimization:** The **2018 website is outdated**; regular updates and SEO improvements are needed.
 
-### 5️5. Boosting Customer Retention & Word-of-Mouth
+### 5. Boosting Customer Retention & Word-of-Mouth
 - **Psychological support from staff significantly increases return visits.**
 - High **service quality and word-of-mouth marketing** drive customer loyalty.
 
@@ -85,13 +85,3 @@ We used **Python (Pandas, Seaborn, Matplotlib)** for visualizing key insights:
 - Expand dataset for **more regional insights**.
 - Implement **machine learning models** to predict consumer behavior.
 - Conduct **A/B testing** for marketing strategies.
-
-## 🔗 Connect with Me
-If you have any questions or feedback, feel free to reach out or contribute to this project!
-
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-🐙 GitHub: [YourUsername](https://github.com/yourusername)
-
----
-**⭐ If you find this project useful, please consider giving it a star!**
