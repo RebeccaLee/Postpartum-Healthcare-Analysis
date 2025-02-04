@@ -25,19 +25,19 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
 
 ## 🔑 Key Findings & Insights
-## 1. Understanding Consumer Priorities
+### 1. Understanding Consumer Priorities
 - Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
 - **Transportation inconvenience** is a major barrier to selection.
 
-## 2. Communicating Product Value
+### 2. Communicating Product Value
 - **Expert Medical Team**: Cixin has **highly qualified caregivers** but lacks sufficient promotion.
 - **High Value-for-Money**: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
 
-## 3. Differentiating Services
+### 3. Differentiating Services
 - High demand for **postpartum stress-relief programs** (yoga, massage, personalized baby records).
 - **Partnering with childcare centers** can help attract families with older children.
 
-## 4. Enhancing Digital Presence
+### 4. Enhancing Digital Presence
 - **Social Media:** Consumers mainly rely on **Google, referrals, and Facebook**; **Instagram** can engage younger demographics.
 - **Website Optimization:** The **2018 website is outdated**; regular updates and SEO improvements are needed.
 
