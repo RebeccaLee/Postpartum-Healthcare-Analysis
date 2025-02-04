@@ -29,6 +29,8 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
 
 ## 🔑 Recommendations & Insights
+![Postpartum Healthcare Analysis](https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/blob/main/Insights%20%26%20Recommendations%20-%20visual%20selection.png)
+
 ### 1. Understanding Consumer Priorities
 - Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
 - **Transportation inconvenience** is a major barrier to selection.
