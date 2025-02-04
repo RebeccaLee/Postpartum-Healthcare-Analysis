@@ -1,8 +1,8 @@
-# Postpartum-Healthcare-Analysis
+# Postpartum Healthcare Analysis
 # Consumer Behavior Analysis – Cixin Postpartum Care
 
 ## 📌 Project Overview
-This project analyzes consumer perceptions and purchasing behavior in the postpartum care industry, with a focus on **Cixin Postpartum Care Home**. Using **survey data and statistical analysis (SPSS, T-tests, ANOVA, regression analysis)**, we identify key decision-making factors, customer preferences, and potential business strategies for improving service offerings and marketing efforts.
+This project analyzes consumer perceptions and purchasing behavior in the postpartum care industry, with a focus on **Cixin Postpartum Care Home**. Using **survey data and statistical analysis (SPSS, T-tests, ANOVA, Regression analysis)**, it identify key decision-making factors, customer preferences, and potential business strategies for improving service offerings and marketing efforts.
 
 ## 📊 Key Objectives
 - Assess consumer **awareness, preferences, and decision-making** factors.
@@ -10,13 +10,13 @@ This project analyzes consumer perceptions and purchasing behavior in the postpa
 - Provide **data-driven recommendations** for business growth and differentiation.
 
 ## 🛠️ Methodology
-We collected **344 survey responses** (with 342 valid entries) from target consumers in **Xizhi, Neihu, and Nangang**. The analysis follows these steps:
+This survey contained **344 survey responses** (with 342 valid entries) from target consumers in Xizhi, Neihu, and Nangang district in New Taipei City. The analysis follows these steps:
 
 1. **Survey Segmentation:**
    - Lifestyle Preferences
    - Consumer Habits
    - Scenario Analysis
-   - Brand Awareness & Experience (Cixin Postpartum Care Home)
+   - Brand Awareness & Experience
    - Demographics
 2. **Statistical Analysis:**
    - **Descriptive Statistics:** Age, childbirth history, awareness levels.
@@ -25,23 +25,23 @@ We collected **344 survey responses** (with 342 valid entries) from target consu
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
 
 ## 🔑 Key Findings & Insights
-### 1️⃣ Understanding Consumer Priorities
+### 1️1. Understanding Consumer Priorities
 - Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
 - **Transportation inconvenience** is a major barrier to selection.
 
-### 2️⃣ Communicating Product Value
+### 2️2. Communicating Product Value
 - **Expert Medical Team**: Cixin has **highly qualified caregivers** but lacks sufficient promotion.
 - **High Value-for-Money**: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
 
-### 3️⃣ Differentiating Services
+### 3️3. Differentiating Services
 - High demand for **postpartum stress-relief programs** (yoga, massage, personalized baby records).
 - **Partnering with childcare centers** can help attract families with older children.
 
-### 4️⃣ Enhancing Digital Presence
+### 4️4. Enhancing Digital Presence
 - **Social Media:** Consumers mainly rely on **Google, referrals, and Facebook**; **Instagram** can engage younger demographics.
 - **Website Optimization:** The **2018 website is outdated**; regular updates and SEO improvements are needed.
 
-### 5️⃣ Boosting Customer Retention & Word-of-Mouth
+### 5️5. Boosting Customer Retention & Word-of-Mouth
 - **Psychological support from staff significantly increases return visits.**
 - High **service quality and word-of-mouth marketing** drive customer loyalty.
 
