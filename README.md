@@ -62,26 +62,7 @@ consumer-analysis-cixin/
 ```
 
 ## 📈 Visualizations & Data Analysis
-We used **Python (Pandas, Seaborn, Matplotlib)** for visualizing key insights:
+We used **SPSS Statistical Analysis** for visualizing key insights:
 - Customer **awareness levels**
 - Impact of **psychological support on retention**
 - Preferred **postpartum care services**
-
-## 🚀 How to Use This Repository
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/consumer-analysis-cixin.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd consumer-analysis-cixin
-   ```
-3. Open and run the Jupyter Notebook:
-   ```sh
-   jupyter notebook code/data_analysis.ipynb
-   ```
-
-## 📢 Future Improvements
-- Expand dataset for **more regional insights**.
-- Implement **machine learning models** to predict consumer behavior.
-- Conduct **A/B testing** for marketing strategies.
