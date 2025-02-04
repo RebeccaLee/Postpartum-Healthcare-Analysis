@@ -27,7 +27,7 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
    - **Regression Analysis:** Examining factors affecting customer retention.
    - **Cross-Tabulation:** Analyzing correlations between behaviors and demographics.
 
-## 🔑 Key Findings & Insights
+## 🔑 Recommendations & Insights
 ### 1. Understanding Consumer Priorities
 - Customers prioritize **caregiver professionalism, neonatal care, and infection control**.
 - **Transportation inconvenience** is a major barrier to selection.
