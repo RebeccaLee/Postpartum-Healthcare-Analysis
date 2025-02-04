@@ -14,7 +14,7 @@ Cleaned + Structured data -> ([report/SPSS Analysis Results.xlsx](https://github
 
 ## 🛠️ Methodology
 This survey contained **344 survey responses** (with 342 valid entries) from target consumers in Xizhi, Neihu, and Nangang district in New Taipei City. The analysis follows these steps:
-![Postpartum Healthcare Analysis](https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/blob/main/survey%20structure.png
+![Postpartum Healthcare Analysis](https://github.com/RebeccaLee/Postpartum-Healthcare-Analysis/blob/main/survey%20structure.png)
 
 1. **Survey Segmentation:**
    - Lifestyle Preferences
