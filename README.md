@@ -42,7 +42,7 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
 - Transportation inconvenience is a major barrier to selection.
 
 ### 2. Communicating Product Value
-- Expert Medical Team: Cixin has **highly qualified caregivers but lacks sufficient promotion.
+- Expert Medical Team: Cixin has highly qualified caregivers but lacks sufficient promotion.
 - High Value-for-Money: Diverse room options, premium facilities, and personalized services enhance competitive advantage.
 
 ### 3. Differentiating Services
@@ -51,7 +51,7 @@ This survey contained **344 survey responses** (with 342 valid entries) from tar
 
 ### 4. Enhancing Digital Presence
 - Social Media: Consumers mainly rely on Google, referrals, and Facebook**; Instagram can engage younger demographics.
-- Website Optimization: The 2018 website is outdated**; regular updates and SEO improvements are needed.
+- Website Optimization: The 2018 website is outdated; regular updates and SEO improvements are needed.
 
 ### 5. Boosting Customer Retention & Word-of-Mouth
 - Psychological support from staff significantly increases return visits.
